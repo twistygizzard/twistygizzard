@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twistygizzard
 - 👀 I’m interested in ... sailng, learning python, beer and brewing
-- 🌱 I’m currently learning ... API integration
+- 🌱 I’m currently learning ...IoT and publishing data remotely
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... PM me!
 
